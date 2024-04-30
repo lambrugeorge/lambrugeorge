@@ -90,7 +90,7 @@ I'm a frontend developer who loves React.
 
 ### GitHub Commits Graph
 
-[![GitHub Commits Graph](https://github-readme-stats.vercel.app/api/wakatime?username=lambrugeorge&bg_color=1c1917&title_color=0891b2&text_color=ffffff&custom_title=GitHub%20Commits%20Graph)](https://github.com/lambrugeorge)
+[![GitHub Commits Graph](https://github-readme-stats.vercel.app/api?username=lambrugeorge&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true&show_icons=true)](https://github.com/lambrugeorge)
 
 ### Top Languages
 
