@@ -8,7 +8,7 @@ I'm a frontend developer who loves React.
 
 * 🌍 I'm based in Brăila, ROU
 * ✉️ You can contact me at [lambru_george@yahoo.com](mailto:lambru_george@yahoo.com)
-* 🧠 I'm learning React (Redux, Hooks, GraphQL), Material UI, and then Remix.js
+* 🧠 I'm learning React (Redux, Hooks, GraphQL), Material UI, and then Next.JS
 * 🤝 I'm open to collaborating on projects.
 * ⚡ I am enthusiastically looking to find a job in this area.
 
