@@ -66,12 +66,12 @@ I'm a web developer passionate about creating amazing user interfaces with React
 
 ### GitHub Stats
 
-![GitHub Commits Graph](https://github-readme-stats.vercel.app/api/wakatime?username=lambrugeorge&bg_color=1c1917&title_color=0891b2&text_color=ffffff&custom_title=GitHub%20Commits%20Graph)
-
-### GitHub Commits Graph
-
-![GitHub Commits Graph](https://github-readme-stats.vercel.app/api/wakatime?username=lambrugeorge&bg_color=1c1917&title_color=0891b2&text_color=ffffff&custom_title=GitHub%20Commits%20Graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lambrugeorge&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=1c1917)
 
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lambrugeorge&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+
+### WakaTime Graph
+
+![WakaTime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=lambrugeorge&bg_color=1c1917&title_color=0891b2&text_color=ffffff&custom_title=GitHub%20Commits%20Graph)
