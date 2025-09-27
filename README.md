@@ -1,5 +1,8 @@
 # Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Lambru Adrian
-<a href="https://tryhackme.com/p/lambruadrian" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/lambruadrian.png" alt="TryHackMe" width="350" height="350" /></a>
+
+<a href="https://tryhackme.com/p/lambruadrian" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lambruadrian.png" alt="TryHackMe" width="350" height="350" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0712F7&center=true&random=false&width=435&lines=I+like+this!)](https://git.io/typing-svg)
 
@@ -57,6 +60,12 @@ Web developer with 1+ year experience, transitioning to cybersecurity. Currently
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lambrugeorge&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
-## My Code Time
+---
 
-[![wakatime](https://wakatime.com/badge/user/844050d5-1351-433e-8ba1-59e2ada32bcf.svg)](https://wakatime.com/@844050d5-1351-433e-8ba1-59e2ada32bcf)
+## ⏳ My Code Time  
+
+<p align="center">
+  <a href="https://wakatime.com/@844050d5-1351-433e-8ba1-59e2ada32bcf">
+    <img src="https://wakatime.com/badge/user/844050d5-1351-433e-8ba1-59e2ada32bcf.svg" alt="Total time coded since Nov 8 2024" />
+  </a>
+</p>
