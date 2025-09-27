@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0712F7&center=true&random=false&width=435&lines=I+like+this!)](https://git.io/typing-svg)
 
+---
+
 ## 👨‍💻 Frontend Developer & SOC Analyst Trainee
 
 Web developer with 1+ year experience, transitioning to cybersecurity. Currently training for SOC Analyst L1 through hands-on TryHackMe labs focused on SIEM, phishing, and endpoint monitoring. Passionate about threat detection, Blue Team operations, and building amazing user interfaces.
@@ -61,12 +63,11 @@ Web developer with 1+ year experience, transitioning to cybersecurity. Currently
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lambrugeorge&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 ---
----
 
 ## ⏳ My Code Time  
 
 <p align="center">
   <a href="https://wakatime.com/@844050d5-1351-433e-8ba1-59e2ada32bcf">
-    <img src="https://wakatime.com/badge/user/844050d5-1351-433e-8ba1-59e2ada32bcf.svg" alt="Total time coded since Nov 8 2024" />
+    <img src="https://wakatime.com/badge/user/844050d5-1351-433e-8ba1-59e2ada32bcf.svg?style=for-the-badge" alt="Total time coded since Nov 8 2024" />
   </a>
 </p>
